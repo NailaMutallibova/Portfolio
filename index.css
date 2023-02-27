@@ -715,6 +715,9 @@ h1 {
     width: 360px !important;
     height: 130px !important;
 }
+.eduH2{
+    margin-bottom: 150px;
+}
 }
 
 @media screen and (max-width: 1065px) {
